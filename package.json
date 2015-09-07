@@ -1,0 +1,21 @@
+{
+  "name": "sealious-cli-channel",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/Sealious/sealious-cli-channel.git"
+  },
+  "keywords": [
+    "sealious-plugin"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sealious/sealious-cli-channel/issues"
+  }
+}
